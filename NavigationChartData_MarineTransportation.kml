@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"> <NetworkLink>
+<open>1</open>
+<name>NavigationChartData/MarineTransportation</name>
+<LookAt>
+<longitude>-78.95299942735942</longitude>
+<latitude>42.514637364831835</latitude>
+<range>2640130.9590189825</range>
+</LookAt>
+<Region>
+<LatLonBox>
+<north>70.2113884</north>
+<south>5.87026450000002</south>
+<east>180.0</east>
+<west>-180.0</west>
+</LatLonBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<viewRefreshMode>onStop</viewRefreshMode>
+<viewRefreshTime>2</viewRefreshTime>
+<href>https://gis.charttools.noaa.gov/arcgis/rest/services/NavigationChartData/MarineTransportation/MapServer/export</href>
+<viewFormat>
+f=kmz&amp;bboxSR=4326&amp;imageSR=4326&amp;format=png24&amp;transparent=true&amp;bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;size=[horizPixels],[vertPixels]&amp;
+</viewFormat>
+</Link>
+</NetworkLink>
+</kml>
