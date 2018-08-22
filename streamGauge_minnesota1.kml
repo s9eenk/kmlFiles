@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <Style id="icon_0">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_hollowdot.png</href></Icon>
+      <scale>0.20</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_1">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real01dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_2">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real02dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_3">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real03dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_4">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real04dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_5">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real05dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_6">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real06dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_7">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real07dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+  <Style id="icon_8">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real08dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<ScreenOverlay id="legend_bar">
+   <visibility>1</visibility>
+   <Icon>
+       <href>http://waterwatch.usgs.gov/images/dots/wet_dry_bar.png</href>
+   </Icon>
+   <name>WaterWatch Legend</name>
+  <overlayXY x="0.01" y="56.02" xunits="fraction" yunits="fraction"/>
+   <screenXY x="0.01" y="56.02" xunits="fraction" yunits="fraction"/>
+   <size x="0" y="0" xunits="pixels" yunits="pixels"/>
+  </ScreenOverlay>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ low ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ low ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05134200'>05134200</a> RAPID RIVER NEAR BAUDETTE, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, Stage: 1.88 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Low</a> ]]>
+  </description>
+  <styleUrl>#icon_1</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.56271600,48.53608068,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ &lt; 10th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ &lt; 10th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05076000'>05076000</a> THIEF RIVER NEAR THIEF RIVER FALLS, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, Stage: 3.55 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &lt; 10th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_3</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.17003350,48.18552490,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05094000'>05094000</a> SOUTH BRANCH TWO RIVERS AT LAKE BRONSON, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.75 cfs, Stage: 3.11 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &lt; 10th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_3</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.66754440,48.73247860,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05104500'>05104500</a> ROSEAU RIVER BELOW SOUTH FORK NEAR MALUNG, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, Stage: 2.36 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &lt; 10th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_3</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.74248850,48.79470197,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05106000'>05106000</a> SPRAGUE CREEK NEAR SPRAGUE, MANITOBA, CANADA]]></name>
+  <description><![CDATA[ Streamflow: 0.61 cfs, Stage: 1.98 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &lt; 10th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_3</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.66219920,48.99248859,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05243725'>05243725</a> STRAIGHT RIVER NEAR PARK RAPIDS, MN]]></name>
+  <description><![CDATA[ Streamflow: 34.0 cfs, Stage: 1.18 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &lt; 10th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_3</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.06585520,46.87495909,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 10th-24th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 10th-24th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=04010500'>04010500</a> PIGEON RIVER AT MIDDLE FALLS NR GRAND PORTAGE MN]]></name>
+  <description><![CDATA[ Streamflow: 82.8 cfs, Stage: 2.36 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-89.61619840,48.01210765,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=04024000'>04024000</a> ST. LOUIS RIVER AT SCANLON, MN]]></name>
+  <description><![CDATA[ Streamflow: 720 cfs, Stage: 2.90 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.41880180,46.70327650,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05061000'>05061000</a> BUFFALO RIVER NEAR HAWLEY, MN]]></name>
+  <description><![CDATA[ Streamflow: 15.6 cfs, Stage: 3.18 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.32950930,46.84995979,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05078000'>05078000</a> CLEARWATER RIVER AT PLUMMER, MN]]></name>
+  <description><![CDATA[ Streamflow: 39.0 cfs, Stage: 2.66 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.04642260,47.92329740,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05079000'>05079000</a> RED LAKE RIVER AT CROOKSTON, MN]]></name>
+  <description><![CDATA[ Streamflow: 174 cfs, Stage: 3.63 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.60951010,47.77552716,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05107500'>05107500</a> ROSEAU RIVER AT ROSS, MN]]></name>
+  <description><![CDATA[ Streamflow: 4.83 cfs, Stage: 1.38 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.92194020,48.91026030,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05112000'>05112000</a> ROSEAU RIVER BELOW STATE DITCH 51 NR CARIBOU, MN]]></name>
+  <description><![CDATA[ Streamflow: 9.68 cfs, Stage: 1.59 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.46308040,48.98164829,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05131500'>05131500</a> LITTLE FORK RIVER AT LITTLEFORK, MN]]></name>
+  <description><![CDATA[ Streamflow: 126 cfs, Stage: 2.33 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.54932660,48.39577636,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05132000'>05132000</a> BIG FORK RIVER AT BIG FALLS, MN]]></name>
+  <description><![CDATA[ Streamflow: 81.1 cfs, Stage: 2.82 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.80712450,48.19578490,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05133500'>05133500</a> RAINY RIVER AT MANITOU RAPIDS, MN]]></name>
+  <description><![CDATA[ Streamflow: 5980 cfs, Stage: 3.11 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.91322800,48.63440090,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 25th-75th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 25th-75th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=04015330'>04015330</a> KNIFE RIVER NEAR TWO HARBORS, MN]]></name>
+  <description><![CDATA[ Streamflow: 6.73 cfs, Stage: 25.73 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.79240130,46.94688005,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05046000'>05046000</a> OTTER TAIL RIVER BL ORWELL D NR FERGUS FALLS, MN]]></name>
+  <description><![CDATA[ Streamflow: 388 cfs, Stage: 2.96 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.18506140,46.20968199,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05062000'>05062000</a> BUFFALO RIVER NEAR DILWORTH, MN]]></name>
+  <description><![CDATA[ Streamflow: 36.7 cfs, Stage: 3.02 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.66146500,46.96107360,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05062500'>05062500</a> WILD RICE RIVER AT TWIN VALLEY, MN]]></name>
+  <description><![CDATA[ Streamflow: 34.1 cfs, Stage: 1.75 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.24750000,47.26555556,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05064000'>05064000</a> WILD RICE RIVER AT HENDRUM, MN]]></name>
+  <description><![CDATA[ Streamflow: 47.1 cfs, Stage: 3.52 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.79757830,47.26802728,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05069000'>05069000</a> SAND HILL RIVER AT CLIMAX, MN]]></name>
+  <description><![CDATA[ Streamflow: 17.1 cfs, Stage: 4.11 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.81479980,47.61191807,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05074500'>05074500</a> RED LAKE RIVER NEAR RED LAKE, MN]]></name>
+  <description><![CDATA[ Streamflow: 229 cfs, Stage: 69.46 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.27667140,47.95745720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05075000'>05075000</a> RED LAKE RIVER AT HIGH LANDING NR GOODRIDGE, MN]]></name>
+  <description><![CDATA[ Streamflow: 228 cfs, Stage: 3.02 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.80862960,48.04857277,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05078230'>05078230</a> LOST RIVER AT OKLEE, MN]]></name>
+  <description><![CDATA[ Streamflow: 5.07 cfs, Stage: 2.87 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.85863690,47.84301627,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05124480'>05124480</a> KAWISHIWI RIVER NEAR ELY, MN]]></name>
+  <description><![CDATA[ Streamflow: 103 cfs, Stage: 3.35 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.53512600,47.92267490,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05127500'>05127500</a> BASSWOOD RIVER NEAR WINTON, MN]]></name>
+  <description><![CDATA[ Streamflow: 733 cfs, Stage: 3.10 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.65262370,48.08239370,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05129115'>05129115</a> VERMILION RIVER NR CRANE LAKE, MN]]></name>
+  <description><![CDATA[ Streamflow: 456 cfs, Stage: 6.82 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.56599350,48.26462820,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05129290'>05129290</a> GOLD PORTAGE OUTLET FROM KABETOGAMA LK NR RAY,MN]]></name>
+  <description><![CDATA[ Streamflow: 472 cfs, Stage: 17.25 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.07486880,48.52436350,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05211000'>05211000</a> MISSISSIPPI RIVER AT GRAND RAPIDS, MN]]></name>
+  <description><![CDATA[ Streamflow: 720 cfs, Stage: 3.96 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.53021440,47.23216599,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05212700'>05212700</a> PRAIRIE RIVER NEAR TACONITE, MN]]></name>
+  <description><![CDATA[ Streamflow: 41.9 cfs, Stage: 1.98 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.38075700,47.38882770,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05227500'>05227500</a> MISSISSIPPI RIVER AT AITKIN, MN]]></name>
+  <description><![CDATA[ Streamflow: 1580 cfs, Stage: 4.39 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.70747120,46.54051280,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05242300'>05242300</a> MISSISSIPPI RIVER AT BRAINERD, MN]]></name>
+  <description><![CDATA[ Streamflow: 1860 cfs, Stage: 5.56 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.18332790,46.37774400,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05244000'>05244000</a> CROW WING RIVER AT NIMROD, MN]]></name>
+  <description><![CDATA[ Streamflow: 253 cfs, Stage: 2.98 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.87918390,46.64023789,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05247500'>05247500</a> CROW WING RIVER NEAR PILLAGER, MN]]></name>
+  <description><![CDATA[ Streamflow: 1090 cfs, Stage: 3.92 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.37750360,46.30496700,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05267000'>05267000</a> MISSISSIPPI RIVER NEAR ROYALTON, MN]]></name>
+  <description><![CDATA[ Streamflow: 2660 cfs, Stage: 9.04 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.35527820,45.82607650,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05275000'>05275000</a> ELK RIVER NEAR BIG LAKE, MN]]></name>
+  <description><![CDATA[ Streamflow: 172 cfs, Stage: 1.36 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.66690980,45.33385370,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05287890'>05287890</a> ELM CREEK NR CHAMPLIN, MN]]></name>
+  <description><![CDATA[ Streamflow: 5.50 cfs, Stage: 3.69 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.43662120,45.16329810,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05288500'>05288500</a> MISSISSIPPI RIVER AT HWY 610 IN BROOKLYN PARK, MN]]></name>
+  <description><![CDATA[ Streamflow: 6150 cfs, Stage: 3.16 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.29689470,45.12663180,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05292000'>05292000</a> MINNESOTA RIVER AT ORTONVILLE, MN]]></name>
+  <description><![CDATA[ Streamflow: 39.9 cfs, Stage: 1.68 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.44422310,45.29552046,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05320500'>05320500</a> LE SUEUR RIVER NEAR RAPIDAN, MN]]></name>
+  <description><![CDATA[ Streamflow: 277 cfs, Stage: 2.51 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.04190020,44.10968777,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05331000'>05331000</a> MISSISSIPPI RIVER AT ST. PAUL, MN]]></name>
+  <description><![CDATA[ Streamflow: 10300 cfs, Stage: 3.64 ft, 2018-08-22 02:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.08811110,44.94444440,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05336700'>05336700</a> KETTLE RIVER BELOW SANDSTONE, MN]]></name>
+  <description><![CDATA[ Streamflow: 197 cfs, Stage: 4.31 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.86408990,46.10550480,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05338500'>05338500</a> SNAKE RIVER NEAR PINE CITY, MN]]></name>
+  <description><![CDATA[ Streamflow: 304 cfs, Stage: 3.34 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.93354120,45.84162199,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05345000'>05345000</a> VERMILLION RIVER NEAR EMPIRE, MN]]></name>
+  <description><![CDATA[ Streamflow: 39.0 cfs, Stage: 2.56 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.05493580,44.66663318,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05353800'>05353800</a> STRAIGHT RIVER NEAR FARIBAULT, MN]]></name>
+  <description><![CDATA[ Streamflow: 87.6 cfs, Stage: 3.92 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.23104730,44.25801920,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355200'>05355200</a> CANNON RIVER AT WELCH, MN]]></name>
+  <description><![CDATA[ Streamflow: 380 cfs, Stage: 3.76 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.73214290,44.56385590,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05372995'>05372995</a> SOUTH FORK ZUMBRO RIVER AT ROCHESTER, MN]]></name>
+  <description><![CDATA[ Streamflow: 91.6 cfs, Stage: 2.57 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.46628890,44.06163100,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05378500'>05378500</a> MISSISSIPPI RIVER AT WINONA, MN]]></name>
+  <description><![CDATA[ Streamflow: 19400 cfs, Stage: 5.70 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.63764870,44.05551860,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05385000'>05385000</a> ROOT RIVER NEAR HOUSTON, MN]]></name>
+  <description><![CDATA[ Streamflow: 762 cfs, Stage: 3.80 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.56986540,43.76857719,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05457000'>05457000</a> CEDAR RIVER NEAR AUSTIN, MN]]></name>
+  <description><![CDATA[ Streamflow: 120 cfs, Stage: 3.00 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.97463690,43.63718529,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 76th-90th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 76th-90th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05061500'>05061500</a> SOUTH BRANCH BUFFALO RIVER AT SABIN, MN]]></name>
+  <description><![CDATA[ Streamflow: 14.3 cfs, Stage: 4.86 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.62813180,46.77551750,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05245100'>05245100</a> LONG PRAIRIE RIVER AT LONG PRAIRIE, MN]]></name>
+  <description><![CDATA[ Streamflow: 182 cfs, Stage: 2.98 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.86585520,45.97496449,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05270500'>05270500</a> SAUK RIVER NEAR ST. CLOUD, MN]]></name>
+  <description><![CDATA[ Streamflow: 374 cfs, Stage: 2.52 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.23360330,45.55968715,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05280000'>05280000</a> CROW RIVER AT ROCKFORD, MN]]></name>
+  <description><![CDATA[ Streamflow: 711 cfs, Stage: 3.27 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.73413200,45.08662970,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05286000'>05286000</a> RUM RIVER NEAR ST. FRANCIS, MN]]></name>
+  <description><![CDATA[ Streamflow: 572 cfs, Stage: 3.15 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.37245370,45.32774267,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05293000'>05293000</a> YELLOW BANK RIVER NEAR ODESSA, MN]]></name>
+  <description><![CDATA[ Streamflow: 25.4 cfs, Stage: 1.46 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.35366500,45.22690940,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05301000'>05301000</a> MINNESOTA RIVER NEAR LAC QUI PARLE, MN]]></name>
+  <description><![CDATA[ Streamflow: 1830 cfs, Stage: 26.79 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.86836480,45.02134720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05304500'>05304500</a> CHIPPEWA RIVER NEAR MILAN, MN]]></name>
+  <description><![CDATA[ Streamflow: 751 cfs, Stage: 2.74 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.79892240,45.10829200,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05317200'>05317200</a> LITTLE COTTONWOOD RIVER NEAR COURTLAND, MN]]></name>
+  <description><![CDATA[ Streamflow: 79.6 cfs, Stage: 3.79 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.33885580,44.24635340,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05319500'>05319500</a> WATONWAN RIVER NEAR GARDEN CITY, MN]]></name>
+  <description><![CDATA[ Streamflow: 340 cfs, Stage: 2.00 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.19551440,44.04635215,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05320000'>05320000</a> BLUE EARTH RIVER NEAR RAPIDAN, MN]]></name>
+  <description><![CDATA[ Streamflow: 1040 cfs, Stage: 3.15 ft, 2018-08-22 02:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.10940190,44.09552035,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05327000'>05327000</a> HIGH ISLAND CREEK NEAR HENDERSON, MN]]></name>
+  <description><![CDATA[ Streamflow: 110 cfs, Stage: 3.26 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.92191130,44.57190790,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05330000'>05330000</a> MINNESOTA RIVER NEAR JORDAN, MN]]></name>
+  <description><![CDATA[ Streamflow: 5320 cfs, Stage: 9.57 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.64190200,44.69301845,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ &gt; 90th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ &gt; 90th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05087500'>05087500</a> MIDDLE RIVER AT ARGYLE, MN]]></name>
+  <description><![CDATA[ Streamflow: 20.4 cfs, Stage: 3.82 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.81645020,48.34025520,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05294000'>05294000</a> POMME DE TERRE RIVER AT APPLETON, MN]]></name>
+  <description><![CDATA[ Streamflow: 355 cfs, Stage: 5.73 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.02254550,45.20273930,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05300000'>05300000</a> LAC QUI PARLE RIVER NEAR LAC QUI PARLE, MN]]></name>
+  <description><![CDATA[ Streamflow: 286 cfs, Stage: 6.53 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.91975420,44.99523647,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05311000'>05311000</a> MINNESOTA RIVER AT MONTEVIDEO, MN]]></name>
+  <description><![CDATA[ Streamflow: 2330 cfs, Stage: 8.54 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.73363740,44.93329030,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05313500'>05313500</a> YELLOW MEDICINE RIVER NEAR GRANITE FALLS, MN]]></name>
+  <description><![CDATA[ Streamflow: 503 cfs, Stage: 5.30 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.54411110,44.71516667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05315000'>05315000</a> REDWOOD RIVER NEAR MARSHALL, MN]]></name>
+  <description><![CDATA[ Streamflow: 180 cfs, Stage: 8.48 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.82955560,44.43016667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05316500'>05316500</a> REDWOOD RIVER NEAR REDWOOD FALLS, MN]]></name>
+  <description><![CDATA[ Streamflow: 307 cfs, Stage: 2.87 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.17249920,44.52357010,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05317000'>05317000</a> COTTONWOOD RIVER NEAR NEW ULM, MN]]></name>
+  <description><![CDATA[ Streamflow: 495 cfs, Stage: 4.88 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.43860560,44.28939167,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05325000'>05325000</a> MINNESOTA RIVER AT MANKATO, MN]]></name>
+  <description><![CDATA[ Streamflow: 5260 cfs, Stage: 6.55 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.00328860,44.16885530,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05476000'>05476000</a> DES MOINES RIVER AT JACKSON, MN]]></name>
+  <description><![CDATA[ Streamflow: 1370 cfs, Stage: 9.27 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.98512990,43.62079160,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ not ranked ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ not ranked ]]></description>
+  <visibility>0</visibility>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=04015438'>04015438</a> ST. LOUIS RIVER NEAR SKIBO, MN]]></name>
+  <description><![CDATA[ Streamflow: 13.1 cfs, Stage: 17.45 ft, 2018-08-22 02:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.04000000,47.48111110,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=04021520'>04021520</a> STONEY BROOK AT PINE DRIVE NEAR BROOKSTON, MN]]></name>
+  <description><![CDATA[ Stage: 2.73 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.63666670,46.78166667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05030500'>05030500</a> OTTER TAIL RIVER NEAR ELIZABETH, MN]]></name>
+  <description><![CDATA[ Streamflow: 327 cfs, Stage: 5.97 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.01755560,46.36940390,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05046475'>05046475</a> OTTER TAIL RIVER DIVERSION AT BRECKENRIDGE, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, Stage: 4.20 ft, 2018-08-20 02:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.58257330,46.28245910,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05049000'>05049000</a> MUSTINKA RIVER ABOVE WHEATON, MN]]></name>
+  <description><![CDATA[ Stage: 77.88 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.49062180,45.82079400,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05049700'>05049700</a> LAKE TRAVERSE AT RESERVATION DAM NEAR WHEATON, MN]]></name>
+  <description><![CDATA[ Stage: 76.99 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.63868140,45.76857167,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05049710'>05049710</a> LAKE TRAVERSE OTLT AT RESERVATION DAM NR WHEATON]]></name>
+  <description><![CDATA[ Stage: 72.06 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.63888890,45.76944440,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05051300'>05051300</a> BOIS DE SIOUX RIVER NEAR DORAN, MN]]></name>
+  <description><![CDATA[ Streamflow: 18.5 cfs, Stage: 6.15 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.57923890,46.15218130,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05063398'>05063398</a> S. BR. WILD RICE RIVER AT CO. RD. 27 NR FELTON, MN]]></name>
+  <description><![CDATA[ Streamflow: 1.08 cfs, Stage: 4.26 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.38583330,47.11333330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05067500'>05067500</a> MARSH RIVER NEAR SHELLY, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, Stage: 3.38 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.76424400,47.41247148,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05073500'>05073500</a> UPPER RED LAKE AT WASKISH, MN]]></name>
+  <description><![CDATA[ Stage: 73.54 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.51439920,48.17551858,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05074000'>05074000</a> LOWER RED LAKE NR RED LAKE, MN]]></name>
+  <description><![CDATA[ Stage: 73.17 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.27639360,47.95745720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05078500'>05078500</a> CLEARWATER RIVER AT RED LAKE FALLS, MN]]></name>
+  <description><![CDATA[ Stage: 5.06 ft, 2018-08-22 02:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.27658060,47.88620556,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05080000'>05080000</a> RED LAKE RIVER AT FISHER, MN]]></name>
+  <description><![CDATA[ Streamflow: 192 cfs, Stage: 9.78 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.80896270,47.80025190,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05083500'>05083500</a> RED RIVER OF THE NORTH AT OSLO, MN]]></name>
+  <description><![CDATA[ Stage: 5.41 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-97.14062800,48.19387265,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05085450'>05085450</a> SNAKE RIVER ABOVE WARREN, MN]]></name>
+  <description><![CDATA[ Streamflow: 25.2 cfs, Stage: 61.33 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.71805560,48.20972220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05125000'>05125000</a> SOUTH KAWISHIWI RIVER NEAR ELY, MN]]></name>
+  <description><![CDATA[ Streamflow: 118 cfs, Stage: 2.21 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.69541879,47.83990347,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05126210'>05126210</a> SOUTH KAWISHIWI R ABV WHITE IRON LAKE NR ELY, MN]]></name>
+  <description><![CDATA[ Streamflow: 185 cfs, Stage: 3.64 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.79903390,47.84185000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05129515'>05129515</a> RAINY R AT BOAT LANDING BLW INTERNATIONAL FALLS,MN]]></name>
+  <description><![CDATA[ Streamflow: 4220 cfs, Stage: 14.37 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.44666670,48.59222220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05137500'>05137500</a> RAINY RIVER NEAR BOAT LANDING AT WHEELERS POINT,MN]]></name>
+  <description><![CDATA[ Stage: 5.09 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.70500000,48.83027778,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05140520'>05140520</a> LAKE OF THE WOODS AT WARROAD, MN]]></name>
+  <description><![CDATA[ Stage: 59.12 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.31607080,48.90415450,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05140521'>05140521</a> LK OF THE WOODS @ SPRINGSTEEL IS NR. WARROAD, MN]]></name>
+  <description><![CDATA[ Stage: 59.13 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.30690390,48.94582270,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05200510'>05200510</a> MISSISSIPPI RIVER NEAR BEMIDJI, MN]]></name>
+  <description><![CDATA[ Streamflow: 115 cfs, Stage: 2.80 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.72804360,47.48328559,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05205900'>05205900</a> LEECH LAKE AT SUGAR POINT NEAR FEDERAL DAM, MN]]></name>
+  <description><![CDATA[ Stage: 94.57 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.28691570,47.17051060,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05207600'>05207600</a> MISSISSIPPI RIVER AT WILLOW BEACH AT BALL CLUB, MN]]></name>
+  <description><![CDATA[ Streamflow: 678 cfs, Stage: 6.12 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.90138890,47.30222220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05210000'>05210000</a> MISSISSIPPI R. AT DAYS HIGH LANDING NR DEER RIVER]]></name>
+  <description><![CDATA[ Stage: 73.91 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.80299900,47.25217220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05227530'>05227530</a> MISSISSIPPI RIVER DIVERSION NEAR AITKIN, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, Stage: 2.68 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.68694440,46.59166667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05270700'>05270700</a> MISSISSIPPI RIVER AT ST. CLOUD, MN]]></name>
+  <description><![CDATA[ Streamflow: 3360 cfs, Stage: 4.66 ft, 2018-08-22 02:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.14582200,45.54718750,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05283500'>05283500</a> MISSISSIPPI RIVER AT US HWY 169 AT CHAMPLIN, MN]]></name>
+  <description><![CDATA[ Streamflow: 5010 cfs, Stage: 4.53 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.39467600,45.19163166,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05284000'>05284000</a> MILLE LACS LAKE AT COVE BAY NEAR ONAMIA, MN]]></name>
+  <description><![CDATA[ Stage: 49.49 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.61913250,46.10995810,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05288580'>05288580</a> RICE CREEK BLW OLD HWY. 8 IN MOUNDS VIEW, MN]]></name>
+  <description><![CDATA[ Streamflow: 37.8 cfs, Stage: 7.63 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.19500000,45.09333330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05288670'>05288670</a> MISSISSIPPI RIVER ABV 37TH AVE. NE IN FRIDLEY, MN]]></name>
+  <description><![CDATA[ Stage: 88.53 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.27938890,45.04327778,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05288705'>05288705</a> SHINGLE CREEK AT QUEEN AVE IN MINNEAPOLIS, MN]]></name>
+  <description><![CDATA[ Streamflow: 7.61 cfs, Stage: 9.39 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.31022740,45.04996508,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05289000'>05289000</a> LAKE MINNETONKA ABV GRAYS BAY OTLT IN MINNETONKA]]></name>
+  <description><![CDATA[ Stage: 928.82 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.48722220,44.95333330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05289800'>05289800</a> MINNEHAHA CREEK AT HIAWATHA AVE. IN MINNEAPOLIS,MN]]></name>
+  <description><![CDATA[ Streamflow: 34.6 cfs, Stage: 12.74 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.21272240,44.91552097,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05292704'>05292704</a> NORTH FORK YELLOW BANK RIVER NEAR ODESSA, MN]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, 2003-09-22 23:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.41533200,45.18913155,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05304995'>05304995</a> CHIPPEWA R. (HW) ABOVE COUNTY RD 13 NR WATSON, MN]]></name>
+  <description><![CDATA[ Stage: 39.50 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.79027780,45.02277778,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05305000'>05305000</a> CHIPPEWA RIVER (TW) NEAR WATSON, MN]]></name>
+  <description><![CDATA[ Streamflow: 400 cfs, Stage: 38.37 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.79058480,45.02106855,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05311150'>05311150</a> MINNESOTA RIVER AT HWY 212 IN GRANITE FALLS, MN]]></name>
+  <description><![CDATA[ Streamflow: 2410 cfs, Stage: 882.10 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.54416670,44.80555556,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05316580'>05316580</a> MINNESOTA RIVER AT MORTON, MN]]></name>
+  <description><![CDATA[ Streamflow: 3440 cfs, Stage: 14.47 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.99638380,44.54607170,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05316770'>05316770</a> MINNESOTA RIVER AT NEW ULM, MN]]></name>
+  <description><![CDATA[ Streamflow: 2560 cfs, Stage: 789.56 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-94.43361110,44.29694444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05330920'>05330920</a> MINNESOTA RIVER AT FORT SNELLING STATE PARK, MN]]></name>
+  <description><![CDATA[ Streamflow: 5090 cfs, Stage: 687.65 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.19244320,44.87024320,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05331580'>05331580</a> MISSISSIPPI RIVER BELOW L&D #2 AT HASTINGS, MN]]></name>
+  <description><![CDATA[ Streamflow: 12200 cfs, Stage: 7.25 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.84777780,44.74583330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05341550'>05341550</a> ST. CROIX RIVER AT STILLWATER, MN]]></name>
+  <description><![CDATA[ Streamflow: 2920 cfs, Stage: 675.60 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.80409630,45.05607806,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05354500'>05354500</a> CANNON RIVER AT CO. HWY. 29 BELOW FARIBAULT, MN]]></name>
+  <description><![CDATA[ Streamflow: 158 cfs, Stage: 9.47 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.25666670,44.35972220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355024'>05355024</a> CANNON RIVER AT NORTHFIELD MN]]></name>
+  <description><![CDATA[ Streamflow: 204 cfs, Stage: 890.08 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.15966670,44.45858330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355038'>05355038</a> CHUB CREEK AT CO. HWY. 47 ABOVE RANDOLPH, MN]]></name>
+  <description><![CDATA[ Stage: 4.58 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.07250000,44.52888889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355080'>05355080</a> PRAIRIE CREEK NEAR CANNON FALLS, MN]]></name>
+  <description><![CDATA[ Stage: 11.96 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-93.00361110,44.47166667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355092'>05355092</a> CANNON RIVER AT 9TH ST. BRIDGE IN CANNON FALLS, MN]]></name>
+  <description><![CDATA[ Streamflow: 266 cfs, Stage: 7.63 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.91202780,44.51697220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355235'>05355235</a> MISSISSIPPI RIVER ABV RED WING BLW DIAMOND ISL, MN]]></name>
+  <description><![CDATA[ Stage: 3.31 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.57933330,44.60416667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355250'>05355250</a> MISSISSIPPI RIVER AT RED WING, MN]]></name>
+  <description><![CDATA[ Streamflow: 16300 cfs, Stage: 3.14 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.54244440,44.56530556,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05355341'>05355341</a> MISSISSIPPI RIVER (LAKE PEPIN) ABOVE READS LANDING]]></name>
+  <description><![CDATA[ Streamflow: 15600 cfs, Stage: 17.19 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.09722500,44.41047500,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05374000'>05374000</a> ZUMBRO RIVER AT ZUMBRO FALLS, MN]]></name>
+  <description><![CDATA[ Stage: 5.89 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.43000000,44.28555556,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05374900'>05374900</a> ZUMBRO RIVER AT KELLOGG, MN]]></name>
+  <description><![CDATA[ Streamflow: 665 cfs, Stage: 3.07 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.00405410,44.31191029,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05378490'>05378490</a> MISSISSIPPI RIVER AT LOCK AND DAM 5A NR WINONA, MN]]></name>
+  <description><![CDATA[ Stage: 5.95 ft, 2018-08-22 03:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.66848340,44.08635200,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05383950'>05383950</a> ROOT RIVER NEAR PILOT MOUND, MN]]></name>
+  <description><![CDATA[ Streamflow: 260 cfs, Stage: 7.99 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.03015730,43.78468580,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05384350'>05384350</a> ROOT RIVER ABOVE RUSHFORD, MN]]></name>
+  <description><![CDATA[ Stage: 8.71 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.80388890,43.79777778,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05385500'>05385500</a> SOUTH FORK ROOT RIVER NEAR HOUSTON, MN]]></name>
+  <description><![CDATA[ Streamflow: 238 cfs, Stage: 2.36 ft, 2018-08-22 03:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.56403170,43.73857768,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05386400'>05386400</a> MISSISSIPPI RIVER AT BROWNSVILLE, MN]]></name>
+  <description><![CDATA[ Stage: 31.24 ft, 2018-08-22 03:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.27263470,43.68663579,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05387030'>05387030</a> CROOKED CREEK AT FREEBURG MN]]></name>
+  <description><![CDATA[ Streamflow: 37.7 cfs, Stage: 6.87 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-91.36097009,43.61024800,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=05475350'>05475350</a> DES MOINES RIVER ABOVE WINDOM, MN]]></name>
+  <description><![CDATA[ Stage: 13.94 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.16110410,43.89023529,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=06483000'>06483000</a> ROCK RIVER AT LUVERNE, MN]]></name>
+  <description><![CDATA[ Streamflow: 32.0 cfs, 1997-09-30 23:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-96.20113990,43.65413598,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=06603920'>06603920</a> Loon Creek near Orleans, IA]]></name>
+  <description><![CDATA[ Stage: 14.18 ft, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-95.10166140,43.52107190,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/mn/nwis/uv?site_no=464646092052900'>464646092052900</a> SUPERIOR BAY DULUTH SHIP CANAL AT DULUTH, MN]]></name>
+  <description><![CDATA[ Streamflow: -795 cfs, 2018-08-22 03:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-92.09138890,46.77944440,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+</Document>
+</kml>
