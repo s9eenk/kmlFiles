@@ -70,8 +70,8 @@
        <href>http://waterwatch.usgs.gov/images/dots/wet_dry_bar.png</href>
    </Icon>
    <name>WaterWatch Legend</name>
-   <overlayXY x="0.01" y="0.02" xunits="fraction" yunits="fraction"/>
-   <screenXY x="0.01" y="0.02" xunits="fraction" yunits="fraction"/>
+   <overlayXY x="0.2" y="0.02" xunits="fraction" yunits="fraction"/>
+   <screenXY x="0.2" y="0.02" xunits="fraction" yunits="fraction"/>
    <size x="0" y="0" xunits="pixels" yunits="pixels"/>
 </ScreenOverlay>
 <Folder>
