@@ -1,0 +1,2519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="icon_0">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_hollowdot.png</href></Icon>
+      <scale>0.20</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_1">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real01dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_2">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real02dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_3">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real03dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_4">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real04dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_5">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real05dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_6">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real06dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_7">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real07dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Style id="icon_8">
+    <IconStyle>
+      <Icon><href>http://waterwatch.usgs.gov/images/dots/b_real08dot.png</href></Icon>
+      <scale>0.33</scale>
+    </IconStyle>
+    <LabelStyle><scale>0</scale></LabelStyle>
+  </Style>
+<Folder><name>ct</name><description>Real-time flow condtion for ct </description>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 25th-75th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 25th-75th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01118300'>01118300</a> PENDLETON HILL BROOK NEAR CLARKS FALLS, CT]]></name>
+  <description><![CDATA[ Streamflow: 0.81 cfs, Stage: 1.12 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.83423610,41.47482220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01123000'>01123000</a> LITTLE RIVER NEAR HANOVER, CT]]></name>
+  <description><![CDATA[ Streamflow: 14.5 cfs, Stage: 1.53 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.05229807,41.67176510,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01184490'>01184490</a> BROAD BROOK AT BROAD BROOK, CT]]></name>
+  <description><![CDATA[ Streamflow: 15.3 cfs, Stage: 0.67 ft, 2018-08-22 04:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.54970000,41.91389720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01186000'>01186000</a> WEST BRANCH FARMINGTON RIVER AT RIVERTON, CT]]></name>
+  <description><![CDATA[ Streamflow: 269 cfs, Stage: 4.15 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.01760600,41.96287290,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01192500'>01192500</a> HOCKANUM RIVER NEAR EAST HARTFORD, CT]]></name>
+  <description><![CDATA[ Streamflow: 74.6 cfs, Stage: 1.97 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.58731140,41.78315480,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01196620'>01196620</a> MILL RIVER NEAR HAMDEN, CT]]></name>
+  <description><![CDATA[ Streamflow: 16.2 cfs, Stage: 1.33 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.90265830,41.42041389,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 76th-90th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 76th-90th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01119500'>01119500</a> WILLIMANTIC RIVER NEAR COVENTRY, CT]]></name>
+  <description><![CDATA[ Streamflow: 110 cfs, Stage: 3.21 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.26563469,41.75065440,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01121000'>01121000</a> MOUNT HOPE RIVER NEAR WARRENVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 20.5 cfs, Stage: 1.49 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.16896620,41.84370890,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01122000'>01122000</a> NATCHAUG RIVER AT WILLIMANTIC, CT]]></name>
+  <description><![CDATA[ Streamflow: 185 cfs, Stage: 2.41 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.19557500,41.72010000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01122500'>01122500</a> SHETUCKET RIVER NEAR WILLIMANTIC, CT]]></name>
+  <description><![CDATA[ Streamflow: 356 cfs, Stage: 2.82 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.18202230,41.70037644,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01127000'>01127000</a> QUINEBAUG RIVER AT JEWETT CITY, CT]]></name>
+  <description><![CDATA[ Streamflow: 885 cfs, Stage: 6.27 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.98409440,41.59749167,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01127500'>01127500</a> YANTIC RIVER AT YANTIC, CT]]></name>
+  <description><![CDATA[ Streamflow: 64.8 cfs, Stage: 1.72 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.12146660,41.55870940,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01184000'>01184000</a> CONNECTICUT RIVER AT THOMPSONVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 13100 cfs, Stage: 9.04 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.60536690,41.98731860,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01184100'>01184100</a> STONY BROOK NEAR WEST SUFFIELD, CT]]></name>
+  <description><![CDATA[ Streamflow: 12.8 cfs, Stage: 1.56 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.71048610,41.96083889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01186500'>01186500</a> STILL RIVER AT ROBERTSVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 78.6 cfs, Stage: 2.16 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.03344440,41.96792220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01188000'>01188000</a> BUNNELL BROOK NEAR BURLINGTON, CT]]></name>
+  <description><![CDATA[ Streamflow: 5.20 cfs, Stage: 2.43 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.96482610,41.78620900,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01188090'>01188090</a> FARMINGTON RIVER AT UNIONVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 631 cfs, Stage: 5.87 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.88704170,41.75554720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01189995'>01189995</a> FARMINGTON RIVER AT TARIFFVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 928 cfs, Stage: 2.23 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.75935278,41.90828330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01191000'>01191000</a> NORTH BRANCH PARK RIVER AT HARTFORD, CT]]></name>
+  <description><![CDATA[ Streamflow: 16.5 cfs, Stage: 1.73 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.70805560,41.78443889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01192883'>01192883</a> COGINCHAUG RIVER AT MIDDLEFIELD, CT]]></name>
+  <description><![CDATA[ Streamflow: 24.4 cfs, Stage: 5.00 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.70653060,41.52023330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01193500'>01193500</a> SALMON RIVER NEAR EAST HAMPTON, CT]]></name>
+  <description><![CDATA[ Streamflow: 80.1 cfs, Stage: 2.60 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.44925287,41.55232124,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01194000'>01194000</a> EIGHTMILE RIVER AT NORTH PLAIN, CT]]></name>
+  <description><![CDATA[ Streamflow: 16.5 cfs, Stage: 2.72 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.33267778,41.44166944,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01194500'>01194500</a> EAST BRANCH EIGHTMILE RIVER NEAR NORTH LYME, CT]]></name>
+  <description><![CDATA[ Streamflow: 14.0 cfs, Stage: 1.85 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.33477778,41.42751667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01195100'>01195100</a> INDIAN RIVER NEAR CLINTON, CT]]></name>
+  <description><![CDATA[ Streamflow: 3.58 cfs, Stage: 1.89 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.53103330,41.30617220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01196500'>01196500</a> QUINNIPIAC RIVER AT WALLINGFORD, CT]]></name>
+  <description><![CDATA[ Streamflow: 144 cfs, Stage: 2.83 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.84127500,41.45026389,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01204000'>01204000</a> POMPERAUG RIVER AT SOUTHBURY, CT]]></name>
+  <description><![CDATA[ Streamflow: 138 cfs, Stage: 3.50 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.22457220,41.48193889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01206900'>01206900</a> NAUGATUCK RIVER AT THOMASTON, CT]]></name>
+  <description><![CDATA[ Streamflow: 122 cfs, Stage: 2.25 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.06955270,41.67370840,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01208500'>01208500</a> NAUGATUCK RIVER AT BEACON FALLS, CT]]></name>
+  <description><![CDATA[ Streamflow: 393 cfs, Stage: 2.49 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.06228330,41.44230000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01208950'>01208950</a> SASCO BROOK NEAR SOUTHPORT, CT]]></name>
+  <description><![CDATA[ Streamflow: 6.03 cfs, Stage: 1.20 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.30594950,41.15287436,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209700'>01209700</a> NORWALK RIVER AT SOUTH WILTON, CT]]></name>
+  <description><![CDATA[ Streamflow: 54.0 cfs, Stage: 1.57 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.41954440,41.16376667,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ &gt; 90th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ &gt; 90th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01124000'>01124000</a> QUINEBAUG RIVER AT QUINEBAUG, CT]]></name>
+  <description><![CDATA[ Streamflow: 294 cfs, Stage: 3.17 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.95562890,42.02231890,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01124151'>01124151</a> QUINEBAUG RIVER AT WEST THOMPSON, CT]]></name>
+  <description><![CDATA[ Streamflow: 276 cfs, Stage: 1.81 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.89959720,41.94356667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01125500'>01125500</a> QUINEBAUG RIVER AT PUTNAM, CT]]></name>
+  <description><![CDATA[ Streamflow: 638 cfs, Stage: 3.61 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.91386389,41.90947500,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01187300'>01187300</a> HUBBARD RIVER NEAR WEST HARTLAND, CT]]></name>
+  <description><![CDATA[ Streamflow: 21.7 cfs, Stage: 1.19 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.93932778,42.03750000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01187800'>01187800</a> NEPAUG R NR NEPAUG, CT.]]></name>
+  <description><![CDATA[ Streamflow: 24.4 cfs, Stage: 4.09 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.97010410,41.82065290,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01189000'>01189000</a> PEQUABUCK R AT FORESTVILLE, CT.]]></name>
+  <description><![CDATA[ Streamflow: 85.2 cfs, Stage: 1.66 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.90065738,41.67315400,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01199000'>01199000</a> HOUSATONIC RIVER AT FALLS VILLAGE, CT]]></name>
+  <description><![CDATA[ Streamflow: 2390 cfs, Stage: 4.61 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.36928577,41.95731548,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01199050'>01199050</a> SALMON CREEK AT LIME ROCK, CT]]></name>
+  <description><![CDATA[ Streamflow: 52.9 cfs, Stage: 1.35 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.39095320,41.94231548,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01200500'>01200500</a> HOUSATONIC RIVER AT GAYLORDSVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 3350 cfs, Stage: 5.01 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.48984620,41.65314960,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01203600'>01203600</a> NONEWAUG RIVER AT MINORTOWN, CT]]></name>
+  <description><![CDATA[ Streamflow: 31.1 cfs, Stage: 1.76 ft, 2018-08-22 05:10:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.17846670,41.57585000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01205500'>01205500</a> HOUSATONIC RIVER AT STEVENSON, CT]]></name>
+  <description><![CDATA[ Streamflow: 4370 cfs, Stage: 6.82 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.16663889,41.38380278,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01208990'>01208990</a> SAUGATUCK RIVER NEAR REDDING, CT]]></name>
+  <description><![CDATA[ Streamflow: 48.7 cfs, Stage: 1.98 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.39512029,41.29454000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209500'>01209500</a> SAUGATUCK RIVER NEAR WESTPORT, CT]]></name>
+  <description><![CDATA[ Streamflow: 106 cfs, Stage: 3.82 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.36481670,41.17073056,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ not ranked ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ not ranked ]]></description>
+  <visibility>0</visibility>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01119382'>01119382</a> WILLIMANTIC RIVER AT MERROW RD. NEAR MERROW, CT]]></name>
+  <description><![CDATA[ Streamflow: 92.0 cfs, Stage: 1.46 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.31284720,41.82401110,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01120790'>01120790</a> NATCHAUG RIVER AT MARCY RD. NEAR CHAPLIN, CT]]></name>
+  <description><![CDATA[ Streamflow: 38.6 cfs, Stage: 2.61 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.10616940,41.81616944,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01121330'>01121330</a> FENTON RIVER AT MANSFIELD, CT]]></name>
+  <description><![CDATA[ Streamflow: 17.3 cfs, Stage: 3.44 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.24278060,41.83319444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=011230695'>011230695</a> SHETUCKET RIVER AT TAFTVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 518 cfs, Stage: 5.77 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.04624440,41.57000278,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01125100'>01125100</a> FRENCH RIVER AT NORTH GROSVENORDALE, CT]]></name>
+  <description><![CDATA[ Streamflow: 259 cfs, Stage: 7.67 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.90051389,41.97846389,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01125490'>01125490</a> LITTLE RIVER AT HARRISVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 16.8 cfs, Stage: 1.66 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.93000830,41.92784444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01190070'>01190070</a> CONNECTICUT RIVER AT HARTFORD, CT]]></name>
+  <description><![CDATA[ Stage: 4.33 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.66755000,41.76909444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01192704'>01192704</a> MATTABESSET RIVER AT ROUTE 372 AT EAST BERLIN]]></name>
+  <description><![CDATA[ Streamflow: 19.0 cfs, 2000-09-30 00:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.71509530,41.60815450,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01193050'>01193050</a> CONNECTICUT RIVER AT MIDDLE HADDAM, CT]]></name>
+  <description><![CDATA[ Streamflow: 24400 cfs, Stage: 1.75 ft, 2018-08-22 05:55:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.55314540,41.54176560,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01194750'>01194750</a> CONNECTICUT RIVER AT ESSEX, CT]]></name>
+  <description><![CDATA[ Stage: 1.02 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.38436670,41.35148330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01194796'>01194796</a> CONNECTICUT RIVER AT OLD LYME, CT]]></name>
+  <description><![CDATA[ Stage: 1.06 ft, 2018-08-22 04:55:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.34591660,41.31259830,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01194815'>01194815</a> CONNECTICUT RIVER NR BRIDGE ST NR OLD SAYBROOK, CT]]></name>
+  <description><![CDATA[ Stage: 0.83 ft, 2018-08-22 05:42:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.34927778,41.28133330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01195490'>01195490</a> QUINNIPIAC RIVER AT SOUTHINGTON, CT]]></name>
+  <description><![CDATA[ Streamflow: 13.9 cfs, Stage: 2.97 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.88320000,41.60347220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01196561'>01196561</a> MUDDY RIVER NEAR EAST WALLINGFORD, CT]]></name>
+  <description><![CDATA[ Streamflow: 5.74 cfs, Stage: 1.40 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.77949170,41.43560830,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01200600'>01200600</a> HOUSATONIC RIVER NEAR NEW MILFORD, CT]]></name>
+  <description><![CDATA[ Stage: 14.62 ft, 2016-04-16 19:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.44956690,41.59314990,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01201487'>01201487</a> STILL RIVER AT ROUTE 7 AT BROOKFIELD CENTER, CT]]></name>
+  <description><![CDATA[ Streamflow: 206 cfs, Stage: 8.03 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.40320278,41.46582220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01202501'>01202501</a> SHEPAUG RIVER AT PETERS DAM AT WOODVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 30.1 cfs, Stage: 2.21 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.29260278,41.71957500,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01203000'>01203000</a> SHEPAUG R NR ROXBURY, CT]]></name>
+  <description><![CDATA[ Streamflow: 11.0 cfs, 2007-10-01 00:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.32984029,41.54981744,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=012035055'>012035055</a> POOTATUCK RIVER AT BERKSHIRE]]></name>
+  <description><![CDATA[ Streamflow: 35.5 cfs, Stage: 3.20 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.27318330,41.40654720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01203510'>01203510</a> POOTATUCK RIVER AT SANDY HOOK, CT]]></name>
+  <description><![CDATA[ Streamflow: 57.9 cfs, Stage: 4.29 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.28210000,41.41925000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01203805'>01203805</a> WEEKEEPEEMEE RIVER AT HOTCHKISSVILLE, CT]]></name>
+  <description><![CDATA[ Streamflow: 67.2 cfs, Stage: 2.58 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.21535278,41.55770830,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01208873'>01208873</a> ROOSTER RIVER AT FAIRFIELD, CT]]></name>
+  <description><![CDATA[ Stage: 3.09 ft, 2018-06-26 14:55:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.21900219,41.17981890,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01208925'>01208925</a> MILL RIVER NEAR FAIRFIELD, CT]]></name>
+  <description><![CDATA[ Stage: 1.49 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.27000830,41.16547500,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209005'>01209005</a> SAUGATUCK R BELOW SAUGATUCK RES NR LYONS PLAIN, CT]]></name>
+  <description><![CDATA[ Streamflow: 78.3 cfs, Stage: 3.28 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.34923610,41.24551389,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209105'>01209105</a> ASPETUCK RIVER AT ASPETUCK, CT]]></name>
+  <description><![CDATA[ Streamflow: 19.6 cfs, Stage: 2.73 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.32411940,41.22874167,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209510'>01209510</a> SAUGATUCK RIVER AT ROUTE 1 AT WESTPORT, CT]]></name>
+  <description><![CDATA[ Stage: -0.14 ft, 2018-08-22 05:54:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.36303330,41.14089444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=012095493'>012095493</a> RIDGEFIELD BROOK AT SHIELDS LANE NR RIDGEFIELD, CT]]></name>
+  <description><![CDATA[ Streamflow: 10.0 cfs, Stage: 2.06 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.49289440,41.31408889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209761'>01209761</a> FIVEMILE RIVER NEAR NEW CANAAN, CT]]></name>
+  <description><![CDATA[ Streamflow: 1.01 cfs, Stage: 1.88 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.51107778,41.17432220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209788'>01209788</a> STAMFORD HURRICANE BARRIER AT STAMFORD, CT]]></name>
+  <description><![CDATA[ Stage: -0.02 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.53428929,41.03704150,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01209901'>01209901</a> RIPPOWAM RIVER AT STAMFORD, CT.]]></name>
+  <description><![CDATA[ Streamflow: 33.4 cfs, Stage: 1.76 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.54927220,41.06611110,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=012112296'>012112296</a> GREENWICH HARBOR AT GRASS ISLAND AT GREENWICH, CT]]></name>
+  <description><![CDATA[ Stage: -0.59 ft, 2018-08-22 05:42:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.62508060,41.01412220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ct/nwis/uv?site_no=01212500'>01212500</a> BYRAM RIVER AT PEMBERWICK, CT]]></name>
+  <description><![CDATA[ Streamflow: 38.3 cfs, Stage: 2.44 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.66175000,41.02729720,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder></Folder>
+<Folder><name>ri</name><description>Real-time flow condtion for ri </description>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ &lt; 10th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ &lt; 10th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01114500'>01114500</a> WOONASQUATUCKET RIVER AT CENTERDALE, RI]]></name>
+  <description><![CDATA[ Streamflow: 8.75 cfs, Stage: 1.78 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &lt; 10th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_3</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.48728230,41.85898840,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 10th-24th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 10th-24th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117420'>01117420</a> USQUEPAUG RIVER NEAR USQUEPAUG, RI]]></name>
+  <description><![CDATA[ Streamflow: 11.5 cfs, Stage: 2.65 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.60478490,41.47676730,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117500'>01117500</a> PAWCATUCK RIVER AT WOOD RIVER JUNCTION, RI]]></name>
+  <description><![CDATA[ Streamflow: 31.8 cfs, Stage: 1.87 ft, 2018-08-22 04:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.68089828,41.44510024,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 25th-75th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 25th-75th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01109403'>01109403</a> TEN MILE R., PAWTUCKET AVE. AT E. PROVIDENCE, RI]]></name>
+  <description><![CDATA[ Streamflow: 35.3 cfs, Stage: 2.31 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.35116490,41.83093376,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01111500'>01111500</a> BRANCH RIVER AT FORESTDALE, RI]]></name>
+  <description><![CDATA[ Streamflow: 44.6 cfs, Stage: 2.16 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.56256320,41.99648716,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01114000'>01114000</a> MOSHASSUCK RIVER AT PROVIDENCE, RI]]></name>
+  <description><![CDATA[ Streamflow: 11.0 cfs, Stage: 1.42 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.41061208,41.83398900,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01116000'>01116000</a> SOUTH BRANCH PAWTUXET RIVER AT WASHINGTON, RI]]></name>
+  <description><![CDATA[ Streamflow: 70.1 cfs, Stage: 1.70 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.56589580,41.69010026,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117000'>01117000</a> HUNT RIVER NEAR EAST GREENWICH, RI]]></name>
+  <description><![CDATA[ Streamflow: 9.32 cfs, Stage: 0.94 ft, 2018-08-22 04:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.44450160,41.64121220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117350'>01117350</a> CHIPUXET RIVER AT WEST KINGSTON, RI]]></name>
+  <description><![CDATA[ Streamflow: 10.6 cfs, Stage: 5.61 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.55117190,41.48232330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117468'>01117468</a> BEAVER RIVER NEAR USQUEPAUG, RI]]></name>
+  <description><![CDATA[ Streamflow: 4.45 cfs, Stage: 0.35 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.62811940,41.49260037,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117800'>01117800</a> WOOD RIVER NEAR ARCADIA, RI]]></name>
+  <description><![CDATA[ Streamflow: 32.6 cfs, Stage: 2.86 ft, 2018-08-22 04:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.72062318,41.57398840,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01118000'>01118000</a> WOOD RIVER AT HOPE VALLEY, RI]]></name>
+  <description><![CDATA[ Streamflow: 48.9 cfs, Stage: 2.07 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.71645610,41.49815516,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01118500'>01118500</a> PAWCATUCK RIVER AT WESTERLY, RI]]></name>
+  <description><![CDATA[ Streamflow: 128 cfs, Stage: 4.25 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.83312470,41.38371065,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 76th-90th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 76th-90th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01111300'>01111300</a> NIPMUC RIVER NEAR HARRISVILLE, RI]]></name>
+  <description><![CDATA[ Streamflow: 10.2 cfs, Stage: 3.23 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.68590049,41.98120930,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01112500'>01112500</a> BLACKSTONE RIVER AT WOONSOCKET, RI]]></name>
+  <description><![CDATA[ Streamflow: 430 cfs, Stage: 1.98 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.50311680,42.00620936,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01116500'>01116500</a> PAWTUXET RIVER AT CRANSTON, RI]]></name>
+  <description><![CDATA[ Streamflow: 320 cfs, Stage: 4.33 ft, 2018-08-22 04:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.44505750,41.75093399,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ not ranked ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ not ranked ]]></description>
+  <visibility>0</visibility>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01113895'>01113895</a> BLACKSTONE R AT ROOSEVELT ST AT PAWTUCKET RI]]></name>
+  <description><![CDATA[ Streamflow: 555 cfs, Stage: 1.22 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.38144468,41.88871088,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115098'>01115098</a> PEEPTOAD BROOK AT ELMDALE RD NR NORTH SCITUATE, RI]]></name>
+  <description><![CDATA[ Streamflow: 0.83 cfs, Stage: 1.25 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.60617540,41.85259920,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115110'>01115110</a> HUNTINGHOUSE BK AT ELMDALE RD AT N SCITUATE, RI]]></name>
+  <description><![CDATA[ Streamflow: 0.44 cfs, Stage: 1.15 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.61173110,41.84676589,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115114'>01115114</a> RUSH BROOK NEAR ELMDALE RD NEAR NORTH SCITUATE, RI]]></name>
+  <description><![CDATA[ Streamflow: 0.31 cfs, Stage: 0.53 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.61200890,41.83759929,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115120'>01115120</a> UNNAMED TRIB TO SCITUATE RES NR NORTH SCITUATE, RI]]></name>
+  <description><![CDATA[ Streamflow: 0.00 cfs, Stage: -0.02 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.60895320,41.83148820,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115170'>01115170</a> MOSWANSICUT STREAM NR NORTH SCITUATE, RI]]></name>
+  <description><![CDATA[ Streamflow: 0.48 cfs, Stage: -0.13 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.58450800,41.84093269,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115183'>01115183</a> QUONAPAUG BK AT RT 116 NR NORTH SCITUATE, RI]]></name>
+  <description><![CDATA[ Streamflow: 1.03 cfs, Stage: 0.74 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.58478570,41.79759966,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115184'>01115184</a> SPRUCE BROOK NR NORTH SCITUATE, RI]]></name>
+  <description><![CDATA[ Streamflow: 0.30 cfs, Stage: 0.47 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.62006470,41.78871070,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115187'>01115187</a> PONAGANSET RIVER AT SOUTH FOSTER, RI]]></name>
+  <description><![CDATA[ Streamflow: 2.02 cfs, Stage: 1.48 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.70506770,41.81871020,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115190'>01115190</a> DOLLY COLE BK AT OLD DANIELSON PK AT S FOSTER, RI]]></name>
+  <description><![CDATA[ Streamflow: 1.25 cfs, Stage: 0.89 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.70034528,41.82232130,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115265'>01115265</a> HEMLOCK BROOK AT KING ROAD NR FOSTER, RI]]></name>
+  <description><![CDATA[ Streamflow: 2.03 cfs, Stage: 1.05 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.69867850,41.79065480,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115275'>01115275</a> BEAR TREE BROOK NR CLAYVILLE, RI]]></name>
+  <description><![CDATA[ Stage: 0.43 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.67478879,41.78259940,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115276'>01115276</a> WESTCONNAUG STREAM AT PLAINFIELD PIKE, RI]]></name>
+  <description><![CDATA[ Streamflow: 2.18 cfs, Stage: 0.66 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.66728850,41.78537720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115280'>01115280</a> CORK BK AT ROCKLAND SCITUATE RD NR CLAYVILLE, RI]]></name>
+  <description><![CDATA[ Streamflow: 0.41 cfs, Stage: 0.48 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.64978790,41.80398827,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115297'>01115297</a> WILBUR HOLLOW BK AT OLD PLAINFIELD PK NR CLAYVILLE]]></name>
+  <description><![CDATA[ Streamflow: 1.58 cfs, Stage: 0.54 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.63562070,41.76482190,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01115630'>01115630</a> NOOSENECK RIVER AT NOOSENECK, RI]]></name>
+  <description><![CDATA[ Streamflow: 2.58 cfs, Stage: 0.85 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.63256460,41.62676670,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01116905'>01116905</a> HUNT R 250 FT DS FRY BRK AT FRENCHTOWN, RI]]></name>
+  <description><![CDATA[ Streamflow: 5.88 cfs, Stage: 1.10 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.47888889,41.63000000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117370'>01117370</a> QUEEN R AT LIBERTY RD AT LIBERTY RI]]></name>
+  <description><![CDATA[ Streamflow: 5.70 cfs, Stage: 1.30 ft, 2018-08-22 02:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.56867300,41.53898957,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=01117430'>01117430</a> PAWCATUCK RIVER AT KENYON, RI]]></name>
+  <description><![CDATA[ Streamflow: 32.1 cfs, Stage: 0.49 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.62117380,41.44621186,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ri/nwis/uv?site_no=411838071513000'>411838071513000</a> WATCH HILL COVE TIDE GAGE WESTERLY, R.I.]]></name>
+  <description><![CDATA[ Stage: 0.77 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.85833330,41.31055556,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder></Folder>
+<Folder><name>ma</name><description>Real-time flow condtion for ma </description>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 10th-24th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 10th-24th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104000'>01104000</a> MOTHER BROOK AT DEDHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 1.40 cfs, Stage: 79.80 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 10th-24th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_4</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.16421960,42.25509850,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 25th-75th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 25th-75th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01100600'>01100600</a> SHAWSHEEN RIVER NEAR WILMINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 16.8 cfs, Stage: 2.29 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.21477920,42.56814880,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105500'>01105500</a> EAST BRANCH NEPONSET RIVER AT CANTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 14.8 cfs, Stage: 0.83 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.14588420,42.15454356,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105600'>01105600</a> OLD SWAMP RIVER NEAR SOUTH WEYMOUTH, MA]]></name>
+  <description><![CDATA[ Streamflow: 1.29 cfs, Stage: 2.57 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.94476790,42.19037790,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105730'>01105730</a> INDIAN HEAD RIVER AT HANOVER, MA]]></name>
+  <description><![CDATA[ Streamflow: 9.21 cfs, Stage: 1.40 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.82254150,42.10065710,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105870'>01105870</a> JONES RIVER AT KINGSTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 8.26 cfs, Stage: 2.74 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.73364910,41.99093620,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105880'>01105880</a> HERRING RIVER AT NORTH HARWICH, MA]]></name>
+  <description><![CDATA[ Streamflow: 6.87 cfs, Stage: 2.15 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.10696250,41.70011074,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01108000'>01108000</a> TAUNTON RIVER NEAR BRIDGEWATER, MA]]></name>
+  <description><![CDATA[ Streamflow: 135 cfs, Stage: 3.48 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.95643070,41.93399030,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01109000'>01109000</a> WADING RIVER NEAR NORTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 10.9 cfs, Stage: 5.22 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.17671550,41.94760015,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01109060'>01109060</a> THREEMILE RIVER AT NORTH DIGHTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 40.7 cfs, Stage: 2.52 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.12282369,41.86621220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01109070'>01109070</a> SEGREGANSET RIVER NEAR DIGHTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 1.90 cfs, Stage: 1.92 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.14282400,41.84037900,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01170500'>01170500</a> CONNECTICUT RIVER AT MONTAGUE CITY, MA]]></name>
+  <description><![CDATA[ Streamflow: 4620 cfs, Stage: 8.10 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.57450000,42.58022220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01175500'>01175500</a> SWIFT RIVER AT WEST WARE, MA]]></name>
+  <description><![CDATA[ Streamflow: 53.7 cfs, Stage: 2.21 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 25th-75th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_5</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.33258240,42.26786990,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ 76th-90th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ 76th-90th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01094400'>01094400</a> NORTH NASHUA RIVER AT FITCHBURG, MA]]></name>
+  <description><![CDATA[ Streamflow: 69.7 cfs, Stage: 2.72 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.78812850,42.57620079,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01098530'>01098530</a> SUDBURY RIVER AT SAXONVILLE, MA]]></name>
+  <description><![CDATA[ Streamflow: 115 cfs, Stage: 5.79 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.39756050,42.32537320,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01099500'>01099500</a> CONCORD R BELOW R MEADOW BROOK, AT LOWELL, MA]]></name>
+  <description><![CDATA[ Streamflow: 455 cfs, Stage: 5.05 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.30200470,42.63675810,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01101000'>01101000</a> PARKER RIVER AT BYFIELD, MA]]></name>
+  <description><![CDATA[ Streamflow: 8.30 cfs, Stage: 1.62 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.94560960,42.75286948,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01102500'>01102500</a> ABERJONA RIVER AT WINCHESTER, MA]]></name>
+  <description><![CDATA[ Streamflow: 21.1 cfs, Stage: 7.48 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.13808160,42.44745680,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01103500'>01103500</a> CHARLES RIVER AT DOVER, MA]]></name>
+  <description><![CDATA[ Streamflow: 188 cfs, Stage: 1.21 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.26005580,42.25620900,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104200'>01104200</a> CHARLES RIVER AT WELLESLEY, MA]]></name>
+  <description><![CDATA[ Streamflow: 193 cfs, Stage: 3.29 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.22783300,42.31648610,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104500'>01104500</a> CHARLES RIVER AT WALTHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 224 cfs, Stage: 1.64 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.23366680,42.37231857,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105000'>01105000</a> NEPONSET RIVER AT NORWOOD, MA]]></name>
+  <description><![CDATA[ Streamflow: 22.7 cfs, Stage: 5.92 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.20088630,42.17759870,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105585'>01105585</a> TOWN BROOK AT QUINCY, MA]]></name>
+  <description><![CDATA[ Streamflow: 3.86 cfs, Stage: 1.78 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.99727030,42.24787726,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01169000'>01169000</a> NORTH RIVER AT SHATTUCKVILLE, MA]]></name>
+  <description><![CDATA[ Streamflow: 123 cfs, Stage: 2.41 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.72509220,42.63841775,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01170100'>01170100</a> GREEN RIVER NEAR COLRAIN, MA]]></name>
+  <description><![CDATA[ Streamflow: 78.5 cfs, Stage: 3.41 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.67064738,42.70341695,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01175670'>01175670</a> SEVENMILE RIVER NEAR SPENCER, MA]]></name>
+  <description><![CDATA[ Streamflow: 5.10 cfs, Stage: 9.37 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> 76th-90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_6</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.00479730,42.26509185,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ &gt; 90th percentile ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ &gt; 90th percentile ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01094500'>01094500</a> NORTH NASHUA RIVER NEAR LEOMINSTER, MA]]></name>
+  <description><![CDATA[ Streamflow: 134 cfs, Stage: 2.36 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.72193330,42.49506389,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01096000'>01096000</a> SQUANNACOOK RIVER NEAR WEST GROTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 79.2 cfs, Stage: 2.41 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.65784790,42.63425619,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01096500'>01096500</a> NASHUA RIVER AT EAST PEPPERELL, MA]]></name>
+  <description><![CDATA[ Streamflow: 599 cfs, Stage: 3.18 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.57506809,42.66758945,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01097000'>01097000</a> ASSABET RIVER AT MAYNARD, MA]]></name>
+  <description><![CDATA[ Streamflow: 149 cfs, Stage: 2.37 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.44978480,42.43203800,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01097300'>01097300</a> NASHOBA BROOK NEAR ACTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 8.04 cfs, Stage: 3.59 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.40422829,42.51259289,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01100000'>01100000</a> MERRIMACK RIVER BL CONCORD RIVER AT LOWELL, MA]]></name>
+  <description><![CDATA[ Streamflow: 7180 cfs, Stage: 43.90 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.29839370,42.64592464,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01101500'>01101500</a> IPSWICH RIVER AT SOUTH MIDDLETON, MA]]></name>
+  <description><![CDATA[ Streamflow: 46.6 cfs, Stage: 2.69 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.02894190,42.57037200,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01102000'>01102000</a> IPSWICH RIVER NEAR IPSWICH, MA]]></name>
+  <description><![CDATA[ Streamflow: 126 cfs, Stage: 3.62 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.89366220,42.65981570,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01110000'>01110000</a> QUINSIGAMOND RIVER AT NORTH GRAFTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 31.7 cfs, Stage: 1.44 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.71090230,42.23037200,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01123360'>01123360</a> QUINEBAUG R BL E BRIMFIELD DAM AT FISKDALE, MA]]></name>
+  <description><![CDATA[ Streamflow: 141 cfs, Stage: 3.60 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.12613060,42.10837500,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01123600'>01123600</a> QUINEBAUG R BL WESTVILLE DAM NR SOUTHBRIDGE, MA]]></name>
+  <description><![CDATA[ Streamflow: 196 cfs, Stage: 4.25 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.05838060,42.08261944,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01162000'>01162000</a> MILLERS RIVER NEAR WINCHENDON, MA]]></name>
+  <description><![CDATA[ Streamflow: 248 cfs, Stage: 5.29 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.08341388,42.68425270,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01162500'>01162500</a> PRIEST BROOK NEAR WINCHENDON, MA]]></name>
+  <description><![CDATA[ Streamflow: 82.8 cfs, Stage: 3.42 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.11508120,42.68258590,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01163200'>01163200</a> OTTER RIVER AT OTTER RIVER, MA]]></name>
+  <description><![CDATA[ Streamflow: 80.9 cfs, Stage: 1.49 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.04091198,42.58842124,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01166500'>01166500</a> MILLERS RIVER AT ERVING, MA]]></name>
+  <description><![CDATA[ Streamflow: 1280 cfs, Stage: 3.82 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.43814230,42.59758620,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01168500'>01168500</a> DEERFIELD RIVER AT CHARLEMONT, MA]]></name>
+  <description><![CDATA[ Streamflow: 1140 cfs, Stage: 3.33 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.85419440,42.62600000,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01170000'>01170000</a> DEERFIELD RIVER NEAR WEST DEERFIELD, MA]]></name>
+  <description><![CDATA[ Streamflow: 1610 cfs, Stage: 3.43 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.65342328,42.53591957,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01171500'>01171500</a> MILL RIVER AT NORTHAMPTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 93.3 cfs, Stage: 6.30 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.66509070,42.31897839,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01172500'>01172500</a> WARE RIVER NEAR BARRE, MA]]></name>
+  <description><![CDATA[ Streamflow: 94.1 cfs, Stage: 3.36 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.02452120,42.42509025,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01173000'>01173000</a> WARE RIVER AT INTAKE WORKS NEAR BARRE, MA]]></name>
+  <description><![CDATA[ Streamflow: 187 cfs, Stage: 4.63 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.06035500,42.39064610,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01173500'>01173500</a> WARE RIVER AT GIBBS CROSSING, MA]]></name>
+  <description><![CDATA[ Streamflow: 317 cfs, Stage: 3.11 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.27258047,42.23620380,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01174500'>01174500</a> EAST BRANCH SWIFT RIVER NEAR HARDWICK, MA]]></name>
+  <description><![CDATA[ Streamflow: 115 cfs, Stage: 19.79 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.23869260,42.39342370,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01176000'>01176000</a> QUABOAG RIVER AT WEST BRIMFIELD, MA]]></name>
+  <description><![CDATA[ Streamflow: 200 cfs, Stage: 3.53 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.26369100,42.18231566,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01177000'>01177000</a> CHICOPEE RIVER AT INDIAN ORCHARD, MA]]></name>
+  <description><![CDATA[ Streamflow: 1260 cfs, Stage: 5.58 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.51397560,42.16064906,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01179500'>01179500</a> WESTFIELD RIVER AT KNIGHTVILLE, MA]]></name>
+  <description><![CDATA[ Streamflow: 491 cfs, Stage: 3.88 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.86426360,42.28786655,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01181000'>01181000</a> WEST BRANCH WESTFIELD RIVER AT HUNTINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 181 cfs, Stage: 4.12 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.89565400,42.23731169,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01183500'>01183500</a> WESTFIELD RIVER NEAR WESTFIELD, MA]]></name>
+  <description><![CDATA[ Streamflow: 1290 cfs, Stage: 5.38 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.69898100,42.10676020,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01185500'>01185500</a> WEST BRANCH FARMINGTON RIVER NEAR NEW BOSTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 231 cfs, Stage: 3.67 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.07288330,42.07886110,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01197000'>01197000</a> EAST BRANCH HOUSATONIC RIVER AT COLTSVILLE, MA]]></name>
+  <description><![CDATA[ Streamflow: 108 cfs, Stage: 1.31 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.19733330,42.46958330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01197500'>01197500</a> HOUSATONIC RIVER NEAR GREAT BARRINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 947 cfs, Stage: 3.45 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.35466670,42.23191667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01198000'>01198000</a> GREEN RIVER NEAR GREAT BARRINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 113 cfs, Stage: 1.14 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.39123060,42.19290830,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01331500'>01331500</a> HOOSIC RIVER AT ADAMS, MA]]></name>
+  <description><![CDATA[ Streamflow: 128 cfs, Stage: 6.20 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.12399180,42.61119407,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01332500'>01332500</a> HOOSIC RIVER NEAR WILLIAMSTOWN, MA]]></name>
+  <description><![CDATA[ Streamflow: 289 cfs, Stage: 5.85 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.15899400,42.70035897,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01333000'>01333000</a> GREEN RIVER AT WILLIAMSTOWN, MA]]></name>
+  <description><![CDATA[ Streamflow: 103 cfs, Stage: 2.48 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> &gt; 90th percentile</a> ]]>
+  </description>
+  <styleUrl>#icon_7</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.19677290,42.70896950,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ high ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ high ]]></description>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01169900'>01169900</a> SOUTH RIVER NEAR CONWAY, MA]]></name>
+  <description><![CDATA[ Streamflow: 70.0 cfs, Stage: 2.40 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> High</a> ]]>
+  </description>
+  <styleUrl>#icon_8</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.69370179,42.54203030,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder>
+<Folder>
+  <name>USGS streamgages : <![CDATA[ not ranked ]]></name>
+  <description>Selected USGS streamgages where flows are  : <![CDATA[ not ranked ]]></description>
+  <visibility>0</visibility>
+  <open>0</open>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01095220'>01095220</a> STILLWATER RIVER NEAR STERLING, MA]]></name>
+  <description><![CDATA[ Streamflow: 24.9 cfs, Stage: 4.63 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.79118290,42.41092507,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01095375'>01095375</a> QUINAPOXET RIVER AT CANADA MILLS NEAR HOLDEN, MA]]></name>
+  <description><![CDATA[ Streamflow: 18.2 cfs, Stage: 6.74 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.82812790,42.37286967,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01095434'>01095434</a> GATES BROOK NEAR WEST BOYLSTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 3.54 cfs, Stage: 0.99 ft, 2018-08-22 05:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.77534900,42.36453675,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01095503'>01095503</a> NASHUA RIVER, WATER STREET BRIDGE, AT CLINTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 193 cfs, Stage: 2.70 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.66611110,42.41944444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01098499'>01098499</a> LAKE COCHITUATE AT FRAMINGHAM, MA]]></name>
+  <description><![CDATA[ Stage: 8.20 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.38380830,42.31514167,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01098500'>01098500</a> COCHITUATE BK BL LAKE COCHITUATE AT FRAMINGHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 10.7 cfs, Stage: 4.22 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.38380830,42.31514167,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01100500'>01100500</a> MERRIMACK RIVER AT LAWRENCE, MA]]></name>
+  <description><![CDATA[ Stage: 12.90 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.15313889,42.70483330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01100568'>01100568</a> SHAWSHEEN RIVER AT HANSCOM FIELD NEAR BEDFORD, MA]]></name>
+  <description><![CDATA[ Streamflow: 2.45 cfs, Stage: 0.77 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.27227950,42.46703909,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01100627'>01100627</a> SHAWSHEEN RIVER AT BALMORAL STREET AT ANDOVER, MA]]></name>
+  <description><![CDATA[ Streamflow: 57.7 cfs, Stage: 24.32 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.14922390,42.67148060,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01100693'>01100693</a> MERRIMACK R 0.3 MILES U.S.RT 125 AT HAVERHILL,MA]]></name>
+  <description><![CDATA[ Stage: 2.83 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.08305560,42.77277778,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01100870'>01100870</a> MERRIMACK RIVER AT NEWBURYPORT, MA]]></name>
+  <description><![CDATA[ Stage: -2.15 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.87283057,42.81564687,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01102345'>01102345</a> SAUGUS RIVER AT SAUGUS IRONWORKS AT SAUGUS, MA]]></name>
+  <description><![CDATA[ Streamflow: 16.7 cfs, Stage: 1.88 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.00699540,42.46954040,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01103010'>01103010</a> MYSTIC RIVER AT ARLINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 10.6 cfs, Stage: 105.87 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.14269440,42.42066667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01103025'>01103025</a> ALEWIFE BROOK NEAR ARLINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 8.37 cfs, Stage: 1.89 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.13394220,42.40704077,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01103050'>01103050</a> MYSTIC R AT AMELIA EARHART DAM NR SOMERVILLE, MA]]></name>
+  <description><![CDATA[ Stage: 105.45 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.07505177,42.39565236,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01103280'>01103280</a> CHARLES RIVER AT MEDWAY, MA]]></name>
+  <description><![CDATA[ Streamflow: 72.5 cfs, Stage: 1.22 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.38950320,42.13981970,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01103455'>01103455</a> TROUT BROOK AT DOVER, MA]]></name>
+  <description><![CDATA[ Streamflow: 1.82 cfs, Stage: 1.46 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.29339017,42.25398645,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104370'>01104370</a> STONY BROOK AT VILES STREET, NEAR WESTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 4.98 cfs, Stage: 0.74 ft, 2018-08-22 05:40:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.28944440,42.38555556,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104405'>01104405</a> HOBBS BROOK AT MILL ST NR LINCOLN, MA]]></name>
+  <description><![CDATA[ Streamflow: 0.13 cfs, Stage: 0.80 ft, 2018-08-22 04:40:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.26950140,42.43648400,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104410'>01104410</a> CAMBRIDGE RES., UNNAMED TRIB 1, NR LEXINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 0.06 cfs, Stage: 0.56 ft, 2018-08-20 14:40:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.26422350,42.43648406,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104415'>01104415</a> CAMBRIDGE RES., UNNAMED TRIB 2, NR LEXINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 0.03 cfs, Stage: 0.46 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.26005670,42.43592855,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104420'>01104420</a> CAMBRIDGE RES., UNNAMED TRIB 3, NR LEXINGTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 0.34 cfs, Stage: 1.25 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.25755650,42.41981770,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104425'>01104425</a> HOBBS BRK AT TRAPELO RD AT LINCOLN, MA]]></name>
+  <description><![CDATA[ Stage: 179.53 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.27111110,42.42166667,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104430'>01104430</a> HOBBS BK BELOW CAMBRIDGE RES NR KENDALL GREEN, MA]]></name>
+  <description><![CDATA[ Streamflow: 13.4 cfs, Stage: 1.07 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.27339030,42.39815120,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104453'>01104453</a> STONY BROOK UNNAMED TRIB 2 NR WESTON STATION]]></name>
+  <description><![CDATA[ Streamflow: 6.74 cfs, Stage: 96.35 ft, 2016-05-17 11:20:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.27527778,42.37138889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104455'>01104455</a> STONY BROOK, UNNAMED TRIBUTARY 1, NEAR WALTHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 0.18 cfs, Stage: 3.16 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.27033448,42.37259606,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104460'>01104460</a> STONY BROOK AT RT 20 AT WALTHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 19.4 cfs, Stage: 5.18 ft, 2018-08-22 05:40:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.27061230,42.36898500,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104475'>01104475</a> STONY BROOK RES., UNNAMED TRIB 1, NEAR WESTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 0.39 cfs, Stage: 0.38 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.26811210,42.35454080,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104480'>01104480</a> STONY BROOK RESERVOIR AT DAM NEAR WALTHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 0.45 cfs, Stage: 0.71 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.26505650,42.35565190,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104501'>01104501</a> BEAVER BROOK, LINDEN STREET, AT WALTHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 4.60 cfs, Stage: 2.11 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.22237220,42.37869720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104683'>01104683</a> MUDDY RIVER AT BROOKLINE, MA]]></name>
+  <description><![CDATA[ Stage: 7.75 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.11116328,42.33731970,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104705'>01104705</a> CHARLES RIVER AT FIRST ST AT CAMBRIDGE, MA]]></name>
+  <description><![CDATA[ Stage: 107.43 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.07861110,42.36222220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01104715'>01104715</a> CHARLES RIVER, NEW CHARLES RIVER DAM AT BOSTON, MA]]></name>
+  <description><![CDATA[ Stage: 107.44 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.06166670,42.36888889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=011055525'>011055525</a> PONKAPOAG BRK UPSTREAM RT 138,NR CANTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 1.37 cfs, Stage: 17.61 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.11444440,42.19027778,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105554'>01105554</a> NEPONSET RIVER AT GREENLODGE ST NEAR CANTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 66.7 cfs, Stage: 7.34 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.14588510,42.20926550,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=011055566'>011055566</a> NEPONSET RIVER AT MILTON VILLAGE, MA]]></name>
+  <description><![CDATA[ Streamflow: 67.6 cfs, Stage: 1.24 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.06838369,42.27093210,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105583'>01105583</a> MONATIQUOT RIVER AT EAST BRAINTREE, MA]]></name>
+  <description><![CDATA[ Streamflow: 2.08 cfs, Stage: 0.90 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.97810260,42.22093308,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105584'>01105584</a> TOWN BROOK AT DIVERSION TUNNEL AT QUINCY, MA]]></name>
+  <description><![CDATA[ Stage: 16.45 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.00444440,42.24444444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105606'>01105606</a> WHITMANS POND, WHITMANS POND DAM AT E. WEYMOUTH,MA]]></name>
+  <description><![CDATA[ Streamflow: 2.18 cfs, Stage: 72.17 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.92944440,42.21083330,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105607'>01105607</a> WHITMANS POND FLOOD BY-PASS AT EAST WEYMOUTH, MA]]></name>
+  <description><![CDATA[ Stage: 64.97 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.92750000,42.21277778,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105608'>01105608</a> WHITMANS POND FISH LADDER AT EAST WEYMOUTH, MA]]></name>
+  <description><![CDATA[ Streamflow: 2.15 cfs, Stage: 31.39 ft, 2018-08-22 05:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.92638889,42.21305556,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105638'>01105638</a> WEIR RIVER AT LEAVITT STREET AT HINGHAM, MA]]></name>
+  <description><![CDATA[ Streamflow: 1.02 cfs, Stage: 0.63 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.87198920,42.23482260,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105876'>01105876</a> EEL RIVER AT RT 3A NEAR PLYMOUTH, MA]]></name>
+  <description><![CDATA[ Streamflow: 27.3 cfs, Stage: 4.93 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.62253380,41.94177039,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=011058837'>011058837</a> QUASHNET RIVER AT WAQUOIT VILLAGE, MA]]></name>
+  <description><![CDATA[ Streamflow: 16.0 cfs, Stage: 2.20 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.50780579,41.59233175,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105917'>01105917</a> MATTAPOISETT RIVER NEAR MATTAPOISETT, MA]]></name>
+  <description><![CDATA[ Streamflow: 11.2 cfs, Stage: 3.77 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.83836960,41.66260446,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01105933'>01105933</a> PASKAMANSET RIVER NEAR SOUTH DARTMOUTH, MA]]></name>
+  <description><![CDATA[ Streamflow: 1.36 cfs, Stage: 8.24 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.99031710,41.58538185,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01108410'>01108410</a> MILL RIVER AT SPRING STREET AT TAUNTON, MA]]></name>
+  <description><![CDATA[ Streamflow: 25.0 cfs, Stage: 3.34 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.08948970,41.89982320,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01109730'>01109730</a> BLACKSTONE RIVER, W. MAIN ST., AT MILLBURY, MA]]></name>
+  <description><![CDATA[ Streamflow: 120 cfs, Stage: 2.09 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.76507020,42.18898350,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01110500'>01110500</a> BLACKSTONE RIVER AT NORTHBRIDGE, MA]]></name>
+  <description><![CDATA[ Streamflow: 525 cfs, Stage: 3.68 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.65201138,42.15370688,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01111200'>01111200</a> WEST RIVER BELOW WEST HILL DAM, NR UXBRIDGE, MA]]></name>
+  <description><![CDATA[ Streamflow: 4.20 cfs, 2001-09-30 23:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.60728750,42.10481890,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01111212'>01111212</a> BLACKSTONE RIVER, RT 122 BRIDGE NEAR UXBRIDGE, MA]]></name>
+  <description><![CDATA[ Streamflow: 4800 cfs, Stage: 16.24 ft, 2018-08-22 04:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.61645420,42.05481959,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01111230'>01111230</a> BLACKSTONE RIVER AT MILLVILLE, MA]]></name>
+  <description><![CDATA[ Streamflow: 357 cfs, Stage: 1.01 ft, 2016-03-31 07:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.57228590,42.02287570,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01161280'>01161280</a> CONNECTICUT RIVER NEAR NORTHFIELD, MA]]></name>
+  <description><![CDATA[ Stage: 10.58 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.47147668,42.68341760,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01168250'>01168250</a> COLD RIVER AT FLORIDA, MA]]></name>
+  <description><![CDATA[ Stage: 3.71 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.03016670,42.66669444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01172010'>01172010</a> CONNECTICUT R AT I-391 BRIDGE AT HOLYOKE, MA]]></name>
+  <description><![CDATA[ Streamflow: 11600 cfs, Stage: 8.02 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.60931110,42.19146944,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01174565'>01174565</a> WEST BRANCH SWIFT RIVER NEAR SHUTESBURY, MA]]></name>
+  <description><![CDATA[ Streamflow: 41.2 cfs, Stage: 1.76 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.38175160,42.45508906,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01176410'>01176410</a> CONANT BROOK RESERVOIR NEAR SOUTH MONSON, MA]]></name>
+  <description><![CDATA[ Stage: 1.60 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-72.29119130,42.07342825,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=01198125'>01198125</a> HOUSATONIC RIVER NEAR ASHLEY FALLS, MA]]></name>
+  <description><![CDATA[ Stage: 6.97 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-73.33344858,42.07481380,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=413601070275800'>413601070275800</a> POPPONESSET BAY, MASHPEE NECK RD, NEAR MASHPEE, MA]]></name>
+  <description><![CDATA[ Stage: -0.70 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.46611670,41.60016110,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=413758070320501'>413758070320501</a> ASHUMET POND NEAR FALMOUTH, MA]]></name>
+  <description><![CDATA[ Stage: 45.37 ft, 2018-08-22 05:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.54002869,41.63399720,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=414507070091400'>414507070091400</a> SESUIT HARBOR TIDE GAGE AT DENNIS, MA]]></name>
+  <description><![CDATA[ Stage: -2.52 ft, 2018-08-22 05:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.15388889,41.75194444,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=415560070032501'>415560070032501</a> MILL CREEK US HERRING RIVER AT WELLFLEET MA]]></name>
+  <description><![CDATA[ Stage: 0.86 ft, 2018-06-14 09:15:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.05688889,41.93323889,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=415601070030701'>415601070030701</a> MILL CK AT CHEQUESSETT YT & GOLF WELLFLEET MA]]></name>
+  <description><![CDATA[ Stage: 1.08 ft, 2018-06-13 16:00:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.05197500,41.93365278,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=420259070105600'>420259070105600</a> PROVINCETOWN TIDE GAGE, PROVINCETOWN, MA]]></name>
+  <description><![CDATA[ Stage: -1.67 ft, 2018-08-22 05:30:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-70.18222220,42.04972220,0</coordinates>
+  </Point>
+  </Placemark>
+  <Placemark>
+  <name><![CDATA[<a href='https://waterdata.usgs.gov/ma/nwis/uv?site_no=422302071083801'>422302071083801</a> FRESH POND IN GATE HOUSE AT CAMBRIDGE, MA]]></name>
+  <description><![CDATA[ Stage: 15.98 ft, 2018-08-22 04:45:00, <a href='http://water.usgs.gov/waterwatch/htmls/ptile.html'> Not ranked</a> ]]>
+  </description>
+  <styleUrl>#icon_0</styleUrl>
+  <Point>
+    <altitudeMode>clampedToGround</altitudeMode>
+    <coordinates>-71.14388889,42.38388889,0</coordinates>
+  </Point>
+  </Placemark>
+ </Folder></Folder>
+</Document>
+</kml>
